@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Display Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="brightness_title">Brightness</string>
+    <string name="colour_title">Color</string>
+    <string name="settingss_title">Brightness</string>
+    <string name="switch_string">Switch</string>
+    <string name="gamma_title">Contrast</string>
+    <string name="whiteness_title">Threshold</string>
+    <string name="frontlight_title">Front Light</string>
+    <string name="switch_on">ON</string>
+    <string name="switch_off">OFF</string>
+</resources>

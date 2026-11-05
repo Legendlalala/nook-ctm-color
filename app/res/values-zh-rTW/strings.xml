@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">顯示設定</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="brightness_title">亮度</string>
+    <string name="colour_title">色溫</string>
+    <string name="settingss_title">亮度</string>
+    <string name="gamma_title">對比度</string>
+    <string name="whiteness_title">白度閾值</string>
+    <string name="frontlight_title">前光</string>
+    <string name="switch_on">開啟</string>
+    <string name="switch_off">關閉</string>
+</resources>

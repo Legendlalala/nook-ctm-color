@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">表示設定</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="brightness_title">明るさ</string>
+    <string name="colour_title">色</string>
+    <string name="settingss_title">Brightness</string>
+    <string name="switch_string">スイッチ</string>
+    <string name="gamma_title">コントラスト</string>
+    <string name="whiteness_title">しきい値</string>
+    <string name="frontlight_title">フロントライト</string>
+    <string name="switch_on">開く</string>
+    <string name="switch_off">閉じる</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="main_layout" />
+    <item type="id" name="frontlightswitch_item" />
+    <item type="id" name="frontlight_switch" />
+    <item type="id" name="brightness_setting_item" />
+    <item type="id" name="brightness_text_value" />
+    <item type="id" name="brightness_item" />
+    <item type="id" name="brightness_decrease_button" />
+    <item type="id" name="brightness_seekBar" />
+    <item type="id" name="brightness_increase_button" />
+    <item type="id" name="colour_setting_item" />
+    <item type="id" name="colour_text_value" />
+    <item type="id" name="colour_item" />
+    <item type="id" name="colour_temperature_decrease_button" />
+    <item type="id" name="colour_temperature_seekBar" />
+    <item type="id" name="colour_temperature_increase_button" />
+    <item type="id" name="gamma_setting_item" />
+    <item type="id" name="gamma_image_linear_layout" />
+    <item type="id" name="gamma_text_value" />
+    <item type="id" name="gamma_item" />
+    <item type="id" name="gamma_decrease_button" />
+    <item type="id" name="gamma_seekBar" />
+    <item type="id" name="gamma_increase_button" />
+    <item type="id" name="whiteness_setting_item" />
+    <item type="id" name="whiteness_text_value" />
+    <item type="id" name="whiteness_item" />
+    <item type="id" name="whiteness_decrease_button" />
+    <item type="id" name="whiteness_seekBar" />
+    <item type="id" name="whiteness_increase_button" />
+    <item type="id" name="back_button" />
+    <item type="id" name="homereturn_button" />
+    <item type="id" name="toolbar_title" />
+    <item type="id" name="switch1" />
+</resources>

@@ -1,0 +1,128 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.0.2
+SHA1-Digest-Manifest: IzhBye7pfuC6YqCsezISuIaKd8g=
+X-Android-APK-Signed: 2,3
+
+Name: AndroidManifest.xml
+SHA1-Digest: Ccv6/tCFEhiUziDiTsxJhfMXIlk=
+
+Name: classes.dex
+SHA1-Digest: zlg5Rfv5v28BeiT7f+WwNG/bhA0=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: 5sgi453aj6+Ivo5k2nJsgb35hrw=
+
+Name: res/drawable-hdpi/text.png
+SHA1-Digest: jU6QhRl1CgNwdVNUi8+xCcxjLY8=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: 3nA95A/XMsE8Sdr0oDxpLE798qc=
+
+Name: res/drawable/bg_bottom_line.xml
+SHA1-Digest: Uz/7wUSosfNgnJQ9zOEyysFAWpY=
+
+Name: res/drawable/bg_circle.xml
+SHA1-Digest: GOWx3cvIpCxOvQGGEZlT7XLrsw0=
+
+Name: res/drawable/bg_rectangle_2dp.xml
+SHA1-Digest: DE/xofh62cpOtCqkoPuPfzwAff8=
+
+Name: res/drawable/bg_textview.xml
+SHA1-Digest: tFQFDZM4mI+Rciu9A9rUJoUzGFs=
+
+Name: res/drawable/gamma_image.png
+SHA1-Digest: 7zooCmLdfj8jFn1dsaIwXBrQpYk=
+
+Name: res/drawable/ic_arrow_back.png
+SHA1-Digest: jTeXlOP6zjY4mfxiOybYSWyM2Hc=
+
+Name: res/drawable/ic_arrow_back_white.png
+SHA1-Digest: rMWwpb4mWuWyw3IuqyNJZyjjGDQ=
+
+Name: res/drawable/ic_brightness.png
+SHA1-Digest: Xb6gqS28i9s7X4eZmJq8upgODlU=
+
+Name: res/drawable/ic_contrast.png
+SHA1-Digest: 0lyZuH3T3ApVuboxfiAqCx4rd7o=
+
+Name: res/drawable/ic_setting.png
+SHA1-Digest: 9hSa7mEJUMKV7z3tr6neygggTMA=
+
+Name: res/drawable/ic_temperature.png
+SHA1-Digest: J2ay1Aps/5/X9eJG5k20kJEwOcc=
+
+Name: res/drawable/ic_whiteness.png
+SHA1-Digest: M3N08ME0qCC4B8XKkMKQxwCllOQ=
+
+Name: res/drawable/mo_minus_mt.png
+SHA1-Digest: lcryDMzwOklYzKIPOI/+j+c4CEY=
+
+Name: res/drawable/mo_plus.png
+SHA1-Digest: Uu4w/ccBlcKQSNp/nSZt00xNB2g=
+
+Name: res/drawable/mo_plus_mt.png
+SHA1-Digest: A7gOeQg1BhcjIK9HDbiwp6SDFFs=
+
+Name: res/drawable/mo_sun.png
+SHA1-Digest: //hXXBUO3WOcF09gpUNteYSthRQ=
+
+Name: res/drawable/ntx_bg_white.xml
+SHA1-Digest: EfJn90IP4pI4boM6GYPq3SRxk2k=
+
+Name: res/drawable/ntx_button_background.xml
+SHA1-Digest: qEIK8U10O/fZYYvwZHfgIz2LkSc=
+
+Name: res/drawable/ntx_button_background_active.xml
+SHA1-Digest: +0gpHGWMcIZSlahOQv9ZpkNjqMs=
+
+Name: res/drawable/ntx_button_background_default.xml
+SHA1-Digest: atuOusQNNJij84VNMc7HghcorNY=
+
+Name: res/drawable/ntx_button_background_inactive.xml
+SHA1-Digest: CTUM/vRTq5xyaz27PZm/A/oaWUY=
+
+Name: res/drawable/ntx_switch_thumb.xml
+SHA1-Digest: ItcIl1TN13OS28kJgQdp0nGTXBQ=
+
+Name: res/drawable/ntx_switch_track.xml
+SHA1-Digest: 75mkwWwWT2sqxyEvdOtrRK+KkOo=
+
+Name: res/drawable/pg_brightness.xml
+SHA1-Digest: HUyfoW9uUchR7R6ukSStyHZOxdQ=
+
+Name: res/drawable/pg_thumb_brightness.xml
+SHA1-Digest: fwV9PFPaXoTI2AveopgFFpTCHRw=
+
+Name: res/drawable/preview_whiteness_threshold.png
+SHA1-Digest: d2fstbrr/4M8OAbtSraGMSgqS1M=
+
+Name: res/drawable/seekbar_black.xml
+SHA1-Digest: LYwL1M8E1VHvTrvmLrqQtmOTAuM=
+
+Name: res/drawable/seekbar_thumb.png
+SHA1-Digest: LDfSOfGVU/11y28icFTkokJSs00=
+
+Name: res/drawable/setting_back_button.xml
+SHA1-Digest: 8+SiD/hWp/eQ+/SdaGtDSEmUcQ8=
+
+Name: res/drawable/switch_bg.png
+SHA1-Digest: bxUgJfwg3w1jOnKp0N2xYnrNykM=
+
+Name: res/drawable/switch_bg_disable.png
+SHA1-Digest: q9NasjjGGPxTowx3R3qVhCZdDVw=
+
+Name: res/drawable/switch_thumb_button.xml
+SHA1-Digest: UUVVWTIPYntK6jboGapjIqDRmbI=
+
+Name: res/drawable/switch_track_selctor.xml
+SHA1-Digest: Zq3HfSoi5vGQSVSVOZcMdjsZRgA=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: pdpyHLp92WuDEv/i2/eO0lmEBRc=
+
+Name: res/layout/setting_toolbar_layout.xml
+SHA1-Digest: /yEoqHvkFLCTYVjeKQ8bE4TuvRE=
+
+Name: resources.arsc
+SHA1-Digest: FjIXshRYvx/LwQ9ZooTiiRep+kI=
+

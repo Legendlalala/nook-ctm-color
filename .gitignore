@@ -1,0 +1,17 @@
+build/
+*.apk
+*.bin
+*.img
+*.keystore
+*.jks
+*.odex
+*.vdex
+*.log
+*_backup*
+*backup*
+apks_extra/
+pulled/
+work/
+维修记录/
+.DS_Store
+Thumbs.db
