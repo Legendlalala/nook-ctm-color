@@ -264,7 +264,7 @@
     .line 530
     mul-int/lit8 v2, p2, 0x64
 
-    div-int/lit8 v1, v2, 0xa
+    div-int/lit8 v1, v2, 0x64
 
     .line 531
     iget-object v2, p0, Lcom/example/ctm/MainActivity$ChangedListener;->this$0:Lcom/example/ctm/MainActivity;
